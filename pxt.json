@@ -8,10 +8,7 @@
     "files": [
         "main.ts",
         "README.md",
-        "first-tutorial.md",
-        "second-tutorial.md",
-        "_locales/zh-CN/first-tutorial.md",
-        "_locales/de-DE/first-tutorial.md",
+        "funk.md",
         "custom.ts"
     ],
     "testFiles": [
@@ -19,10 +16,10 @@
     ],
     "targetVersions": {
         "target": "1.0.16",
-        "targetId": "arcade"
+        "targetId": "microbit"
     },
     "supportedTargets": [
-        "arcade"
+        "microbit"
     ],
     "preferredEditor": "tsprj"
 }
