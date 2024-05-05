@@ -8,8 +8,7 @@
     "files": [
         "main.ts",
         "README.md",
-        "funk.md",
-        "custom.ts"
+        "funk.md"
     ],
     "testFiles": [
         "test.ts"
