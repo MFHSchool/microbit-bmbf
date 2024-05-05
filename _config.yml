@@ -1,7 +1,7 @@
 makecode:
-  target: arcade
-  platform: arcade
-  home_url: https://arcade.makecode.com/
+  target: microbit
+  platform: microbit
+  home_url: https://makecode.microvit.com/
 theme: jekyll-theme-slate
 include:
   - assets
