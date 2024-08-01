@@ -9,7 +9,8 @@
     "files": [
         "main.ts",
         "README.md",
-        "funk.md"
+        "funk.md",
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
