@@ -66,8 +66,6 @@ Der zweite Mikrocontroller besitzt noch ein Geheimnis. Sende hierzu den richtige
 
 
 ```blocks
-input.
-
 input.onButtonPressed(Button.A, function () {	
     basic.showNumber(1)
 })
